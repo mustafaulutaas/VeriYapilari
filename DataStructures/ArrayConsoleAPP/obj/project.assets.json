@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Array/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Array.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Array.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Array/1.0.0": {
+      "type": "project",
+      "path": "../Array/Array.csproj",
+      "msbuildProject": "../Array/Array.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Array >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\02mus\\.nuget\\packages\\": {},
@@ -39,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\VeriYapilari\\DataStructures\\Array\\Array.csproj": {
+              "projectPath": "C:\\VeriYapilari\\DataStructures\\Array\\Array.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

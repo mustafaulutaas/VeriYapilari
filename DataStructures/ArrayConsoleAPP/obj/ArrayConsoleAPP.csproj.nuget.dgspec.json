@@ -32,7 +32,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\VeriYapilari\\DataStructures\\Array\\Array.csproj": {
+                "projectPath": "C:\\VeriYapilari\\DataStructures\\Array\\Array.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -62,6 +66,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\VeriYapilari\\DataStructures\\Array\\Array.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\VeriYapilari\\DataStructures\\Array\\Array.csproj",
+        "projectName": "Array",
+        "projectPath": "C:\\VeriYapilari\\DataStructures\\Array\\Array.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

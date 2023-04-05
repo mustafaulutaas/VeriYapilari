@@ -1,0 +1,6 @@
+C:\VeriYapilari\DataStructures\Array\bin\Debug\Array.dll
+C:\VeriYapilari\DataStructures\Array\bin\Debug\Array.pdb
+C:\VeriYapilari\DataStructures\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\VeriYapilari\DataStructures\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\VeriYapilari\DataStructures\Array\obj\Debug\Array.dll
+C:\VeriYapilari\DataStructures\Array\obj\Debug\Array.pdb
